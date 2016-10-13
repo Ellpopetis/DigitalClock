@@ -66,6 +66,7 @@ public class DigitalClock extends Application {
 
     private Clock clock;
     
+    
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Digital Clock");
